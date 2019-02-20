@@ -8,5 +8,3 @@ int main()
 	return 0;
 }
 
-//FALTA LA PUTA MAYUSCULA INUTIL
-//Te falta la tilde en inútil, inútil
