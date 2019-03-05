@@ -1,0 +1,40 @@
+STAGE 1  https://vignette.wikia.nocookie.net/snk/images/6/63/Sscharlottebg.gif/revision/latest?cb=20100721093831
+STAGE 2  https://vignette.wikia.nocookie.net/snk/images/b/b8/Ssearthquakebg.gif/revision/latest?cb=20100721093805
+STAGE 3  https://vignette.wikia.nocookie.net/snk/images/2/24/Ssgalfordbg.gif/revision/latest?cb=20100721093744
+STAGE 4  https://vignette.wikia.nocookie.net/snk/images/a/a4/Ssgenanbg.gif/revision/latest?cb=20100721093718
+STAGE 5  https://vignette.wikia.nocookie.net/snk/images/b/b3/Sshanzobg.gif/revision/latest?cb=20100721093702
+STAGE 6.1 https://vignette.wikia.nocookie.net/snk/images/3/37/Sshaohmarubg.gif/revision/latest?cb=20100721093648
+STAGE 6.2 https://vignette.wikia.nocookie.net/snk/images/5/52/Ssukyobg.gif/revision/latest?cb=20100721093524
+STAGE 7  https://vignette.wikia.nocookie.net/snk/images/c/cf/Ssjubeibg.gif/revision/latest?cb=20100721093622
+STAGE 8  https://vignette.wikia.nocookie.net/snk/images/5/50/Sskyoshirobg.gif/revision/latest?cb=20100721093609
+STAGE 9  https://vignette.wikia.nocookie.net/snk/images/0/01/Ssnakorurubg.gif/revision/latest?cb=20100721093555
+STAGE 10 https://vignette.wikia.nocookie.net/snk/images/4/4d/Sstamtambg.gif/revision/latest?cb=20100721093540
+STAGE 11 https://vignette.wikia.nocookie.net/snk/images/a/ae/Sswanfubg.gif/revision/latest?cb=20100721093509
+STAGE 12 https://vignette.wikia.nocookie.net/snk/images/f/f1/Ssamakusa1bg.gif/revision/latest?cb=20100721093453
+STAGE 13 https://vignette.wikia.nocookie.net/snk/images/2/2c/Ssamakusa2bg.gif/revision/latest?cb=20100721093440
+STAGE 14 https://vignette.wikia.nocookie.net/snk/images/0/0e/Ssamakusa3bg.gif/revision/latest?cb=20100721093424
+
+AUDIO
+
+NEO-GEO  
+TITLE https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/102%2520Stillness%2520And%2520Motion%2520Short%2520Ver%252030sec%2520Title%2520.mp3
+CHARACTER SELECTING  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/103%252012%2520Warriors.mp3
+BEFORE FIGHT STARTS  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/104%2520Whereabouts%2520Map%2520Screen%2520.mp3
+STAGE 1  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/120%2520A%2520Foreign%2520Girl%2520Charlotte%2520.mp3
+STAGE 2  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/118%2520Ground%2520Earthquake%2520.mp3
+STAGE 3  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/115%2520Tuna%2520Galford%2520.mp3
+STAGE 4  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/116%2520Devil%2520Shiranui%2520Gen%2520An%2520.mp3
+STAGE 5  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/113%2520Shadow%2520Hattori%2520Hanzou%2520.mp3
+STAGE 6.1  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/105%2520The%2520Man%2520Time%2520Haohmaru%2520.mp3
+STAGE 6.2  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/107%2520The%2520Man%2520Time%2520Month%2520Tachibana%2520Ukyou%2520.mp3
+STAGE 7  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/112%2520Bamboo%2520Thicket%2520Yagyuu%2520Jubei%2520.mp3
+STAGE 8  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/108%2520Comma%2520Shaped%2520Jewels%2520Senryou%2520Kyoushirou%2520.mp3
+STAGE 9  https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/110%2520Banquet%2520Of%2520Nature%2520Nakururu%2520.mp3
+STAGE 10 https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/117%2520Foreigner%2520Tam%2520Tam%2520.mp3
+STAGE 11 https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/119%2520The%2520Tiger%2520King%2520Wan%2520Fu%2520.mp3
+STAGE 12 https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/122%2520Pulsation%2520Amakusa%2520Shirou%2520Tokisada%25201%2520.mp3
+STAGE 13 https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/124%2520Darkness%2520Amakusa%2520Shirou%2520Tokisada%25202%2520.mp3
+STAGE 14 
+AFTER BATTLE https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/106%2520Masaru%2520Battle%2520Win%2520Demo%2520.mp3
+ANOTHER PLAY REQUEST CONTINUE https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/129%2520Another%2520Play%2520Request%2520Continue%2520.mp3
+GAME OVER https://downloads.khinsider.com/game-soundtracks/album/samurai-showdown-neogeos-soundtrack-box/130%2520End%2520Of%2520Performance%2520Game%2520Over%2520.mp3
