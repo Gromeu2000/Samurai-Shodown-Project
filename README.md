@@ -1,4 +1,4 @@
-# Samurai Shodown
+﻿# Samurai Shodown
 
 Samurai Shodown (known as Samurai Spirits in Japan), 
 is the first entry of a series of competitive fighting 
@@ -16,7 +16,7 @@ some fictional and some real characters from the old Japan.
 
 ## Web Link
 
-[https://albertec1.github.io/Samurai-Shodown-Project/](https://albertec1.github.io/Samurai-Shodown-Project/)
+[https://Gromeu2000.github.io/Samurai-Shodown-Project/](https://Gromeu2000.github.io/Samurai-Shodown-Project/)
 
 ## Installation instructions
 
@@ -24,7 +24,6 @@ Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!
 
 _IMPORTANT: do not modify, change or add any folder or file as you might not be able to execute the game._
 
-*The game is currently in development. The releases uploaded are just the first versions of the final game.
 
 ## Team photo
 
