@@ -22,8 +22,13 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 *The game is currently in development. The releases uploaded are just the first versions of the final game.
 
-# Team photo
+## Team photo
+
 ![](https://github.com/albertec1/Samurai-Shodown-Project/blob/master/General/Group%20Photo.jpeg)
+
+## Gameplay
+
+
 
 ## Controls
 
