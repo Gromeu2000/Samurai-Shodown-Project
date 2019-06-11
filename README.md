@@ -53,7 +53,7 @@ In Fight:
 
 ## Team members
 
-- Management: Marc Gallardo Quesada https://github.com/Marchusky
+- Management: Marc Gallardo Quesada [https://github.com/Marchusky](https://github.com/Marchusky)
 
 - Art/Design: Gerard Romeu Vidal https://github.com/Gromeu2000
 
