@@ -14,6 +14,10 @@ some fictional and some real characters from the old Japan.
 - Group Github: [https://github.com/albertec1/Samurai-Shodown-Project](https://github.com/albertec1/Samurai-Shodown-Project)
 - Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki](https://github.com/albertec1/Samurai-Shodown-Project/wiki)
 
+## Web Link
+
+[https://albertec1.github.io/Samurai-Shodown-Project/](https://albertec1.github.io/Samurai-Shodown-Project/)
+
 ## Installation instructions
 
 Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!*
