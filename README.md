@@ -1,4 +1,4 @@
-﻿Project 1 - Samurai Shodown
+# Samurai Shodown
 
 Samurai Shodown (known as Samurai Spirits in Japan), 
 is the first entry of a series of competitive fighting 
@@ -12,25 +12,24 @@ it drives us into a battle between good and evil, with
 some fictional and some real characters from the old Japan.
 
 Group Github: https://github.com/albertec1/Samurai-Shodown-Project
+Wiki of the project: https://github.com/albertec1/Samurai-Shodown-Project/wiki
 
-Team members:
-- Management: Marc Gallardo Quesada https://github.com/Marchusky
+## Installation instructions
 
-- Art/Design: Gerard Romeu Vidal https://github.com/Gromeu2000
+Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!*
 
-- Programmer: Albert Espinosa Castillo https://github.com/albertec1
+_IMPORTANT: do not modify, change or add any folder or file as you might not be able to execute the game._
 
-- QA: Marc San José Martínez https://github.com/marcsjm19
+*The game is currently in development. The releases uploaded are just the first versions of the final game.
 
-Instructions:
-Download the game file in which you will find the executable. 
-Initializate it to play the game, further instructions inside the game.
-Q key: select character(player 1)
-1 key(number): select character(player 2)
-SPACE key: next scene
-ESC key: Exit game
 
-Playing with controllers(Xbox controllers)
+
+## Controls
+
+### Gamepad:
+
+Back Button: Exit game
+
 Out of fight:
 - A: select character/next scene
 - game pad: movement
@@ -45,24 +44,24 @@ In Fight:
 - left + down + right + A: power gradiation
 - left + right + X: Lance de Lion
 
+## Team members
 
-Playing with keyboard:
--Player 1 instructions:
-	Arrows: player movement (left to right, jump, crouch)(character selection)
-	A key: sword, punch light attack
-	D key: kick light attack
+- Management: Marc Gallardo Quesada https://github.com/Marchusky
 
--Player 2 instructions: 
-	U, H, J, K: up, left, right, crouch, left respectively (character selection)
-	2 key(number): sword, punch light attack
-	3 key(number):kick light attack
+- Art/Design: Gerard Romeu Vidal https://github.com/Gromeu2000
 
-List of Versions:
+- Programmer: Albert Espinosa Castillo https://github.com/albertec1
+
+- QA: Marc San José Martínez https://github.com/marcsjm19
+
+## List of Versions
+
 0.1: Scroll an empty background with limits.
 0.2: Scene switching + Added Audio
 0.3: Player movement and animations + Particles 
 0.4: Player movement limits + Colliders + God Mode
 0.45: Added Fonts + Win/Lose condition
 0.5: two players gameplay
-0.6: Charlotte character implemented
+0.6: Charlotte character implemented
 0.7: Controllers and combos implemented
+1.0: Alpha of the game. Full UI, three rounds, one hole character playable.
