@@ -11,8 +11,8 @@ The history of the game is set in the feudal-era Japan,
 it drives us into a battle between good and evil, with 
 some fictional and some real characters from the old Japan.
 
-Group Github: https://github.com/albertec1/Samurai-Shodown-Project
-Wiki of the project: https://github.com/albertec1/Samurai-Shodown-Project/wiki
+- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project]
+- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki]
 
 ## Installation instructions
 
@@ -21,6 +21,9 @@ Download the zip file and unzip it. Open the folder, execute the .exe and enjoy!
 _IMPORTANT: do not modify, change or add any folder or file as you might not be able to execute the game._
 
 *The game is currently in development. The releases uploaded are just the first versions of the final game.
+
+# Team photo
+![](https://github.com/albertec1/Samurai-Shodown-Project/blob/master/General/Group%20Photo.jpeg)
 
 ## Controls
 
