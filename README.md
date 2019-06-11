@@ -28,7 +28,7 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 ## Team photo
 
-![](https://raw.githubusercontent.com/Gromeu2000/Samurai-Shodown-Project/master/General/Group%20Photo.jpeg)
+![](https://github.com/Gromeu2000/Samurai-Shodown-Project/blob/master/General/Group%20Photo.jpeg)
 
 ## Gameplay
 
