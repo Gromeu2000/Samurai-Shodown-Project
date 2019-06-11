@@ -11,8 +11,8 @@ The history of the game is set in the feudal-era Japan,
 it drives us into a battle between good and evil, with 
 some fictional and some real characters from the old Japan.
 
-- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project] (https://github.com/albertec1/Samurai-Shodown-Project)
-- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki] (https://github.com/albertec1/Samurai-Shodown-Project)
+- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project](https://github.com/albertec1/Samurai-Shodown-Project)
+- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki](https://github.com/albertec1/Samurai-Shodown-Project/wiki)
 
 ## Installation instructions
 
