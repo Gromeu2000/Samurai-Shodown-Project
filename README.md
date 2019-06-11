@@ -22,8 +22,6 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 
 *The game is currently in development. The releases uploaded are just the first versions of the final game.
 
-
-
 ## Controls
 
 ### Gamepad:
@@ -33,6 +31,7 @@ Back Button: Exit game
 Out of fight:
 - A: select character/next scene
 - game pad: movement
+
 In Fight:
 - A: light attack
 - X: medium attack
