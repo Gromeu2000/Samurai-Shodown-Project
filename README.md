@@ -1,5 +1,4 @@
 # Samurai Shodown
-﻿![](https://lh3.googleusercontent.com/yU7MrhiaFYht1BrckwnK3PqM7Ga-Y95iIMQ0fUV5Yp8nueO6fKCfzxq_ttAPbWfO_Rk1A6bG8yp_KQjb9I22nAj-v4LONWHL3lok6NI3)
 
 Samurai Shodown (known as Samurai Spirits in Japan), 
 is the first entry of a series of competitive fighting 
@@ -12,8 +11,8 @@ The history of the game is set in the feudal-era Japan,
 it drives us into a battle between good and evil, with 
 some fictional and some real characters from the old Japan.
 
-- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project](https://github.com/albertec1/Samurai-Shodown-Project)
-- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki](https://github.com/albertec1/Samurai-Shodown-Project/wiki)
+- Group Github: [https://github.com/Gromeu2000/Samurai-Shodown-Project](https://github.com/albertec1/Samurai-Shodown-Project)
+- Wiki of the project: [https://github.com/Gromeu2000/Samurai-Shodown-Project/wiki](https://github.com/albertec1/Samurai-Shodown-Project/wiki)
 
 ## Web Link
 
