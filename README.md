@@ -31,7 +31,7 @@ _IMPORTANT: do not modify, change or add any folder or file as you might not be 
 ![](https://github.com/Gromeu2000/Samurai-Shodown-Project/blob/master/General/Group%20Photo.jpeg)
 
 ## Gameplay
-
+video
 
 
 ## Controls
