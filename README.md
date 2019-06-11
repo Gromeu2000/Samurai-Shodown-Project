@@ -55,12 +55,12 @@ In Fight:
 
 ## List of Versions
 
-0.1: Scroll an empty background with limits.
-0.2: Scene switching + Added Audio
-0.3: Player movement and animations + Particles 
-0.4: Player movement limits + Colliders + God Mode
-0.45: Added Fonts + Win/Lose condition
-0.5: two players gameplay
-0.6: Charlotte character implemented
-0.7: Controllers and combos implemented
-1.0: Alpha of the game. Full UI, three rounds, one hole character playable.
+- 0.1: Scroll an empty background with limits.
+- 0.2: Scene switching + Added Audio
+- 0.3: Player movement and animations + Particles 
+- 0.4: Player movement limits + Colliders + God Mode
+- 0.45: Added Fonts + Win/Lose condition
+- 0.5: two players gameplay
+- 0.6: Charlotte character implemented
+- 0.7: Controllers and combos implemented
+- 1.0: Alpha of the game. Full UI, three rounds, one hole character playable.
