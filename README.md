@@ -11,8 +11,8 @@ The history of the game is set in the feudal-era Japan,
 it drives us into a battle between good and evil, with 
 some fictional and some real characters from the old Japan.
 
-- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project]
-- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki]
+- Group Github: [https://github.com/albertec1/Samurai-Shodown-Project] (https://github.com/albertec1/Samurai-Shodown-Project)
+- Wiki of the project: [https://github.com/albertec1/Samurai-Shodown-Project/wiki] (https://github.com/albertec1/Samurai-Shodown-Project)
 
 ## Installation instructions
 
@@ -55,11 +55,11 @@ In Fight:
 
 - Management: Marc Gallardo Quesada [https://github.com/Marchusky](https://github.com/Marchusky)
 
-- Art/Design: Gerard Romeu Vidal https://github.com/Gromeu2000
+- Art/Design: Gerard Romeu Vidal [https://github.com/Gromeu2000](https://github.com/Marchusky)
 
-- Programmer: Albert Espinosa Castillo https://github.com/albertec1
+- Programmer: Albert Espinosa Castillo [https://github.com/albertec1](https://github.com/Marchusky)
 
-- QA: Marc San José Martínez https://github.com/marcsjm19
+- QA: Marc San José Martínez [https://github.com/marcsjm19](https://github.com/Marchusky)
 
 ## List of Versions
 
