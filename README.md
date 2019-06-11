@@ -75,4 +75,6 @@ In Fight:
 - 0.5: two players gameplay
 - 0.6: Charlotte character implemented
 - 0.7: Controllers and combos implemented
+- 0.8: Rounds implemented
+- 0.9: Full gameplay
 - 1.0: Alpha of the game. Full UI, three rounds, one hole character playable.
